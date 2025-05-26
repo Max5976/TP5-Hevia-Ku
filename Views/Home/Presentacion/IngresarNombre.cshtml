@@ -1,0 +1,9 @@
+@{
+    ViewData["Title"] = "Nombrar";
+}
+
+ <p>Ingrese su nombre:</p>
+ <form action='@Url.Action("Nombre")' method="get">
+    <input type="text" name="Nombre"/>
+    <input type="submit" value="IngresarNombre" required/>
+</form>
