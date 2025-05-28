@@ -3,3 +3,14 @@
 }
 
 <h1>De Hevia Studios y Ku</h1>
+
+<p>Presione la tecla de espacio para pasar de escena</p>
+
+<script>
+    document.addEventListener('keydown', function(event) {
+        if (event.code === 'space') {
+            vent.preventDefault();
+            window.location.href = 'Presentacion/Historia.cshtml';
+        }
+    });
+</script>

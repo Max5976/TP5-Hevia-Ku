@@ -1,0 +1,9 @@
+Z:\2025\programacion\TP5_Hevia,Ku\obj\Debug\net8.0\TP5_Hevia,Ku.csproj.AssemblyReference.cache
+Z:\2025\programacion\TP5_Hevia,Ku\obj\Debug\net8.0\TP5_Hevia,Ku.GeneratedMSBuildEditorConfig.editorconfig
+Z:\2025\programacion\TP5_Hevia,Ku\obj\Debug\net8.0\TP5_Hevia,Ku.AssemblyInfoInputs.cache
+Z:\2025\programacion\TP5_Hevia,Ku\obj\Debug\net8.0\TP5_Hevia,Ku.AssemblyInfo.cs
+Z:\2025\programacion\TP5_Hevia,Ku\obj\Debug\net8.0\TP5_Hevia,Ku.csproj.CoreCompileInputs.cache
+Z:\2025\programacion\TP5_Hevia,Ku\obj\Debug\net8.0\TP5_Hevia,Ku.MvcApplicationPartsAssemblyInfo.cache
+Z:\2025\programacion\TP5_Hevia,Ku\obj\Debug\net8.0\TP5_Hevia,Ku.RazorAssemblyInfo.cache
+Z:\2025\programacion\TP5_Hevia,Ku\obj\Debug\net8.0\TP5_Hevia,Ku.RazorAssemblyInfo.cs
+Z:\2025\programacion\TP5_Hevia,Ku\obj\Debug\net8.0\TP5_Hevia,Ku.sourcelink.json

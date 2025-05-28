@@ -18,4 +18,13 @@ public class HomeController : Controller
     {
         return View();
     }
+    public IActionResult Intro(string nuevoNombre)
+    {
+        HttpContext.Session.SetString("nombre", nuevoNombre);
+        return View();
+    }
+    public IActionResult Historia() {
+        ViewBag.nombre = HttpContext.Session.GetString("nombre");
+        return View();
+    }
 }

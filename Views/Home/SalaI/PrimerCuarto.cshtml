@@ -1,0 +1,29 @@
+@{
+    ViewData["Title"] = "Sala I";
+}
+
+<h1>@Viewbag.segs</h1>
+
+<div class="cofre">
+    <a href="Cofre.cshtml">
+        <input button>
+    </a>
+</div>
+
+@section Scripts {
+    <script>
+        let tiempo = @Viewbag.segs;
+        const elemento = document.getElementById('contador');
+
+        const reloj = setInterval(() => {
+            tiempo--;
+            elemento.textContent = tiempo;
+
+            if (tiempo <= 0) {
+                clearInterval(reloj);
+                window.location.href = '/Home/Perdiste';
+            }
+        }, 1000);
+    </script>
+
+

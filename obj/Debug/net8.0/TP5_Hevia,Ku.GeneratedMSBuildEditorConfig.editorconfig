@@ -9,31 +9,71 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TP5_Hevia,Ku
 build_property.RootNamespace = TP5_Hevia,Ku
-build_property.ProjectDir = z:\2025\programacion\TP5_Hevia,Ku\
+build_property.ProjectDir = Z:\2025\programacion\TP5_Hevia,Ku\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = z:\2025\programacion\TP5_Hevia,Ku
+build_property.MSBuildProjectDirectory = Z:\2025\programacion\TP5_Hevia,Ku
 build_property._RazorSourceGeneratorDebug = 
 
-[z:/2025/programacion/TP5_Hevia\,Ku/Views/Home/Index.cshtml]
+[Z:/2025/programacion/TP5_Hevia\,Ku/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[z:/2025/programacion/TP5_Hevia\,Ku/Views/Shared/_Layout.cshtml]
+[Z:/2025/programacion/TP5_Hevia\,Ku/Views/Home/Perdiste.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQZXJkaXN0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/2025/programacion/TP5_Hevia\,Ku/Views/Home/Presentacion/Historia.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcmVzZW50YWNpb25cSGlzdG9yaWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/2025/programacion/TP5_Hevia\,Ku/Views/Home/Presentacion/IngresarNombre.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcmVzZW50YWNpb25cSW5ncmVzYXJOb21icmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/2025/programacion/TP5_Hevia\,Ku/Views/Home/Presentacion/Intro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcmVzZW50YWNpb25cSW50cm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/2025/programacion/TP5_Hevia\,Ku/Views/Home/PrimerCuarto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcmltZXJDdWFydG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/2025/programacion/TP5_Hevia\,Ku/Views/Home/SalaI/Carta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTYWxhSVxDYXJ0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/2025/programacion/TP5_Hevia\,Ku/Views/Home/SalaI/Cofre.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTYWxhSVxDb2ZyZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/2025/programacion/TP5_Hevia\,Ku/Views/Home/SalaI/HistoriaII.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTYWxhSVxIaXN0b3JpYUlJLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/2025/programacion/TP5_Hevia\,Ku/Views/Home/SalaI/PrimerCuarto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTYWxhSVxQcmltZXJDdWFydG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/2025/programacion/TP5_Hevia\,Ku/Views/Home/SalaI/PrimerCuartoII.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTYWxhSVxQcmltZXJDdWFydG9JSS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/2025/programacion/TP5_Hevia\,Ku/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[z:/2025/programacion/TP5_Hevia\,Ku/Views/Shared/_ValidationScriptsPartial.cshtml]
+[Z:/2025/programacion/TP5_Hevia\,Ku/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[z:/2025/programacion/TP5_Hevia\,Ku/Views/_ViewImports.cshtml]
+[Z:/2025/programacion/TP5_Hevia\,Ku/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[z:/2025/programacion/TP5_Hevia\,Ku/Views/_ViewStart.cshtml]
+[Z:/2025/programacion/TP5_Hevia\,Ku/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

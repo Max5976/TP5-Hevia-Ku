@@ -4,7 +4,13 @@
 
 <h1>La Revelación</h1>
 <img src="logoJuego.jpg" alt="">
- <p>Presione el botón para jugar:</p>
-<a href='@Url.Action("IngresarNombre")'>
-    <input type="button" value="Comenzar">
-</a>
+<p>Presione la tecla de espacio para jugar</p>
+
+<script>
+    document.addEventListener('keydown', function(event) {
+        if (event.code === 'space') {
+            vent.preventDefault();
+            window.location.href = 'Presentacion/IngresarNombre.cshtml';
+        }
+    });
+</script>
