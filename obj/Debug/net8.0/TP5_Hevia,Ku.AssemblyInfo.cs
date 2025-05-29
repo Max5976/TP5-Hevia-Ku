@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TP5_Hevia,Ku")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53ca670fa1f953497c9aa2bc87b0198e683e3f2d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7bcc7f83ac0361f45736cfe8f9f01e23dd63052a")]
 [assembly: System.Reflection.AssemblyProductAttribute("TP5_Hevia,Ku")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TP5_Hevia,Ku")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

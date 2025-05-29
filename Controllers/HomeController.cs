@@ -23,8 +23,18 @@ public class HomeController : Controller
         HttpContext.Session.SetString("nombre", nuevoNombre);
         return View();
     }
-    public IActionResult Historia() {
+    public IActionResult Historia() 
+    {
         ViewBag.nombre = HttpContext.Session.GetString("nombre");
         return View();
+    }
+    public IActionResult HistoriaII()
+    {
+        ViewBag.nombre = HttpContext.Session.GetString("nombre");
+        return View();
+    }
+    public IActionResult VerificarCodigo() 
+    {
+
     }
 }

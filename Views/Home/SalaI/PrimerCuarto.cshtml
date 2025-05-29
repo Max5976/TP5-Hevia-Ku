@@ -2,7 +2,7 @@
     ViewData["Title"] = "Sala I";
 }
 
-<h1>@Viewbag.segs</h1>
+<h1>@ViewBag.segs</h1>
 
 <div class="cofre">
     <a href="Cofre.cshtml">
@@ -10,9 +10,10 @@
     </a>
 </div>
 
-@section Scripts {
+@section Scripts 
+{
     <script>
-        let tiempo = @Viewbag.segs;
+        let tiempo = ViewBag.segs;
         const elemento = document.getElementById('contador');
 
         const reloj = setInterval(() => {
@@ -25,5 +26,5 @@
             }
         }, 1000);
     </script>
-
+}
 
