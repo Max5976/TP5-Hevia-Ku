@@ -38,6 +38,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcmVzZW50YWNpb25cSW50cm8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[Z:/2025/programacion/TP5_Hevia\,Ku/Views/Home/SalaI/Acertijos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTYWxhSVxBY2VydGlqb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [Z:/2025/programacion/TP5_Hevia\,Ku/Views/Home/SalaI/Carta.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTYWxhSVxDYXJ0YS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -46,8 +50,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTYWxhSVxDb2ZyZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[Z:/2025/programacion/TP5_Hevia\,Ku/Views/Home/SalaI/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTYWxhSVxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [Z:/2025/programacion/TP5_Hevia\,Ku/Views/Home/SalaI/HistoriaII.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTYWxhSVxIaXN0b3JpYUlJLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/2025/programacion/TP5_Hevia\,Ku/Views/Home/SalaI/Pista.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTYWxhSVxQaXN0YS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [Z:/2025/programacion/TP5_Hevia\,Ku/Views/Home/SalaI/PrimerCuarto.cshtml]

@@ -3,14 +3,14 @@
 }
 
 <h1>La Revelación</h1>
-<img src="logoJuego.jpg" alt="">
+<img src="logoJuego.jpg" alt="Logo del juego">
 <p>Presione la tecla de espacio para jugar</p>
 
 <script>
     document.addEventListener('keydown', function(event) {
-        if (event.code === 'space') {
-            vent.preventDefault();
-            window.location.href = 'Presentacion/IngresarNombre.cshtml';
+        if (event.code === 'Space') {
+            event.preventDefault();
+            window.location.href = '/Home/IngresarNombre';
         }
     });
 </script>
